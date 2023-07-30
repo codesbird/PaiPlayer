@@ -1,5 +1,22 @@
-[
-  {
-    "version":1.2
-  }
-]
+{
+  "updates": [
+    {
+      "version": "1.0.0",
+      "description": "Initial release of the program.",
+      "release_date": "2023-07-30",
+      "download_url": "https://github.com/your_username/your_repo_name/releases/tag/v1.0.0"
+    },
+    {
+      "version": "1.1.0",
+      "description": "Added new feature X and fixed a bug.",
+      "release_date": "2023-08-15",
+      "download_url": "https://github.com/your_username/your_repo_name/releases/tag/v1.1.0"
+    },
+    {
+      "version": "1.2.0",
+      "description": "Improved performance and UI changes.",
+      "release_date": "2023-09-01",
+      "download_url": "https://github.com/your_username/your_repo_name/releases/tag/v1.2.0"
+    }
+  ]
+}
